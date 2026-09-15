@@ -151,3 +151,5 @@ publications, and indicate your acceptance of all terms of the Geant4 Software l
 Learn more about the Geant4 license at:  http://cern.ch/geant4/license .
 
 </details>
+<br>
+Contact: jayrobertson@uvic.ca
