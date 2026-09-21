@@ -4,6 +4,8 @@ The Belle II collaboration is currently working to replace and upgrade their Cen
 
 This simulation creates a Geant4 geometry modelled off of the current Belle II Central Drift Chamber (CDC). The specifications for the detector are read from `geometry.json`, which currently specifies various properties based on the [2010 Belle II Technical Design Report](https://docs.belle2.org/files/4270/BELLE2-REPORT-2016-001/1/BELLE2-REPORT-2016-001.pdf) (pp. 202–208). 
 
+For additional details about this simulation, please see the [2026 DriftChamberSim Technical Design Report](DriftChamberSim_Design_Report.pdf).
+
 <details>
 <summary>&nbsp<span style="font-size: 20px; font-weight: bold;">Toolkit Installations</span></summary>
 <br>
